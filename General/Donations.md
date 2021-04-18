@@ -26,4 +26,4 @@ Transfer money to my [Payoneer](https://www.payoneer.com/) account, but only if 
 
 
 
-For more info, drop me an email at `agnosticapollo@gmail.com`.
+For more info, drop me an email at [`agnosticapollo@gmail.com`](mailto:agnosticapollo@gmail.com).
